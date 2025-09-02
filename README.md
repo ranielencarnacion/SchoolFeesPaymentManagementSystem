@@ -1,6 +1,6 @@
 # School Fees Payment Management System
 
-Hey! This is my school project in Business Management - a website where schools can keep track of student fees and payments. Basically, instead of using paper records, everything is stored digitally and you can easily see who paid what and when like tuition fees, school fees etc.
+Hey! This is my Preliminary project during my 3rd year 1st semester in Business Process Management - a website where schools can keep track of student fees and payments. Basically, instead of using paper records, everything is stored digitally and you can easily see who paid what and when like tuition fees, school fees etc.
 
 ## What it does
 
