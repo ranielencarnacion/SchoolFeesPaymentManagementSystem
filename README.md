@@ -1,6 +1,6 @@
 # School Fees Payment Management System
 
-Hey! This is my 1st sem preliminary project during my 3rd Year College in Business Process Management - a website where schools can keep track of student fees and payments. Basically, instead of using paper records, everything is stored digitally and you can easily see who paid what and when like tuition fees, school fees etc.
+Hey! This is my school project in Business Management - a website where schools can keep track of student fees and payments. Basically, instead of using paper records, everything is stored digitally and you can easily see who paid what and when like tuition fees, school fees etc.
 
 ## What it does
 
@@ -9,6 +9,36 @@ Hey! This is my 1st sem preliminary project during my 3rd Year College in Busine
 - Record when students make payments
 - Check payment history for any student
 - Secure admin area (only authorized people can access)
+
+## Technologies Used
+
+### **Backend Technologies**
+- **PHP** - Server-side scripting language for all backend logic
+- **MySQL** - Database management system for data storage
+- **Apache** - Web server (part of XAMPP stack)
+
+### **Frontend Technologies**
+- **HTML5** - Markup structure
+- **CSS3** - Styling and layout
+- **JavaScript** - Client-side interactivity and AJAX functionality
+- **jQuery** - JavaScript library for DOM manipulation
+
+### **UI/UX Libraries & Frameworks**
+- **Bootstrap** - CSS framework for responsive design
+- **Font Awesome** - Icon library
+- **DataTables** - jQuery plugin for enhanced table functionality
+- **Select2** - Enhanced select boxes
+- **DateTime Picker** - Date/time input controls
+
+### **Development Environment**
+- **XAMPP** - Local development stack (Apache, MySQL, PHP, Perl)
+- **phpMyAdmin** - Database administration tool
+
+### **Additional Features**
+- **Barcode Generation** - For generating payment receipts/IDs
+- **Session Management** - PHP sessions for user authentication
+- **Modal Dialogs** - Bootstrap modals for user interactions
+- **AJAX** - Asynchronous data processing
 
 ## What you'll need to run this
 
